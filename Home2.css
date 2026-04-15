@@ -6,11 +6,7 @@ body{
     display:flex;
     border:solid;
     border-radius:10px;
-    
-    
-    
 }
-
 .sidebar{
 list-style:none;
 background-color:#393e46;
@@ -27,15 +23,7 @@ flex-direction:column;
 padding-left:35px;
 text-align:center;
 align-items:center;
-
-
-
-
-
-
-
 }
-
 .sidebar li a {
     color:whitesmoke;
     list-style:none;
@@ -43,25 +31,8 @@ align-items:center;
     padding:61px;
     padding-left:0px;
     display:block;
-    text-decoration:none;
-    
-    
-    
-    
-    
-    
-    
-
-}
-.active{
- 
- color:#0092ca;
- 
-    
-    
-    
-    
-}
+    text-decoration:none; 
+} 
 h1{
     justify-content:center;
     margin-left:450px;
